@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include acuaponia *.css
+recursive-include acuaponia *.csv
+recursive-include acuaponia *.html
+recursive-include acuaponia *.ico
+recursive-include acuaponia *.js
+recursive-include acuaponia *.json
+recursive-include acuaponia *.md
+recursive-include acuaponia *.png
+recursive-include acuaponia *.py
+recursive-include acuaponia *.svg
+recursive-include acuaponia *.txt
+recursive-exclude acuaponia *.pyc
