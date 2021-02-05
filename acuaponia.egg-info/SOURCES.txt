@@ -23,10 +23,6 @@ acuaponia/acuaponia/api.py
 acuaponia/acuaponia/hooks.py
 acuaponia/acuaponia/modules.txt
 acuaponia/acuaponia/patches.txt
-acuaponia/acuaponia.egg-info/SOURCES.txt
-acuaponia/acuaponia.egg-info/dependency_links.txt
-acuaponia/acuaponia.egg-info/requires.txt
-acuaponia/acuaponia.egg-info/top_level.txt
 acuaponia/acuaponia/acuaponia/__init__.py
 acuaponia/acuaponia/acuaponia/doctype/__init__.py
 acuaponia/acuaponia/acuaponia/doctype/dash_acuaponia/__init__.py
